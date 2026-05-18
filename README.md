@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @zippotle
-- 👀 I’m interested in Recruitment, Android Development, Wed Development
-- 🌱 I’m currently learning Android Developemnt & Project Management 
+# Hi, I'm Zipporah 👋
 
-<!---
-zippotle/zippotle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Information Systems Management student interested in artificial intelligence, machine learning, data analysis, software development, and technology strategy.
+
+Currently building projects focused on:
+- AI & Machine Learning
+- Data Analytics
+- Web Development
+- Information Systems
+- UI/UX & Digital Experiences
+
+## Technologies & Tools
+- Python
+- Java
+- JavaScript
+- HTML/CSS
+- Kotlin
+- SQL
+- GitHub
+
+## Featured Projects
+- K-Trivia Website
+- Android Development Projects
+- AI & Data Analysis Projects (in progress)
+
+## Current Focus
+Exploring the intersection of technology, innovation, business systems, and emerging AI applications.
+
+GitHub: https://github.com/zippotle
